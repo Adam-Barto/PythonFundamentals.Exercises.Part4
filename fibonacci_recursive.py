@@ -8,4 +8,3 @@ def fibonnaci(n):
 print(fibonnaci(0))
 print(fibonnaci(4))
 print(fibonnaci(5))
-
